@@ -4,7 +4,9 @@
 */
 @import "./_shared/scss/theme.scss";
 
-/*
-  If you need some CSS for any reason you can put it here.
-*/
 
+.cookie:active {
+
+    transform: translateY(4px);
+
+}
